@@ -1,21 +1,21 @@
-```markdown
-# Reloj Analógico
 
-Este proyecto implementa un reloj analógico interactivo utilizando HTML, CSS y JavaScript. El reloj muestra la hora actual en formato analógico, con manecillas para las horas, los minutos y los segundos.
 
-![Reloj Analógico](screenshot.png)
+## Reloj Analógico
 
-## Funcionalidades
+Este proyecto es un reloj analógico interactivo implementado utilizando HTML, CSS y JavaScript. Es una práctica de desarrollo web donde se utiliza CSS para estilizar el reloj y JavaScript para actualizar dinámicamente las manecillas.
 
-- Muestra la hora actual en un formato analógico.
-- Las manecillas del reloj se actualizan en tiempo real.
-- Diseño elegante y fácil de usar.
+El objetivo principal de este proyecto es aprender y practicar el uso de CSS para la creación de interfaces atractivas y mejorar las habilidades en el desarrollo front-end. Además, se planea realizar una mejora futura en el código al compilarlo con Sass, un preprocesador de CSS, para aprovechar sus características como variables, anidamiento y mixins, lo que facilitará el mantenimiento y la escalabilidad del código.
+
+El reloj analógico muestra la hora actual en un formato tradicional, con manecillas para las horas, los minutos y los segundos. El uso de JavaScript permite que las manecillas se actualicen en tiempo real, reflejando la hora actual del sistema. El diseño del reloj es elegante y fácil de usar, brindando una experiencia visual agradable.
+
+¡Siéntete libre de explorar el código y contribuir al proyecto! Se aceptan sugerencias, mejoras y reportes de problemas. El objetivo es seguir aprendiendo y perfeccionando las habilidades en el desarrollo web.
 
 ## Tecnologías utilizadas
 
-- HTML
-- CSS
-- JavaScript
+- HTML: para la estructura del reloj analógico.
+- CSS: para el estilo y la apariencia del reloj.
+- JavaScript: para la actualización dinámica de las manecillas del reloj.
+- Sass (mejora futura): para compilar el código CSS y aprovechar las características avanzadas del preprocesador.
 
 ## Instalación y Uso
 
@@ -27,16 +27,12 @@ Este proyecto implementa un reloj analógico interactivo utilizando HTML, CSS y 
 git clone https://github.com/Metzeldor/reloj.git
 ```
 
-## Personalización
-
-Puedes personalizar la apariencia del reloj analógico modificando las reglas de estilo en el archivo CSS `estilo.css`. Esto incluye cambios en los colores, tamaños y animaciones de las manecillas y el eje central.
-
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes ideas para mejorar este proyecto, no dudes en abrir un issue o enviar un pull request.
 
 ## Licencia
 
-Este proyecto está bajo la licencia [MIT](LICENSE) creado por JORGE ANDRES TEJADA RAMIREZ.
+Este proyecto está bajo la licencia [MIT](LICENSE) creado por Andres Tejada.
 
-```
+¡Espero que disfrutes explorando y mejorando este reloj analógico! Si tienes alguna otra pregunta, no dudes en preguntar.
