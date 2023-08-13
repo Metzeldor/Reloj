@@ -36,7 +36,14 @@ p {
   z-index: 2;
   border-radius: 1px;
 }
-
+.clock__second {
+  height: 90px;
+  margin-top: 10px;
+  background: #ff0000;
+  -webkit-animation: time 60s infinite steps(60);
+          animation: time 60s infinite steps(60);
+  z-index: 3;
+}
 .clock__minute {
   height: 80px;
   margin-top: 20px;
