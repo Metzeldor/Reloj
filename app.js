@@ -11,3 +11,12 @@ setTime(43200 * hours, "hour");
 function setTime(left, hand) {
   $(".clock__" + hand).scss("animation-delay", "" + left * -1 + "s");
 }
+
+function getSecondsToday() {
+  let now = new Date();
+
+  let today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+
+  let diff = now - today; 
+  return Math.round(diff / 1000);
+}
