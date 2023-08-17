@@ -19,14 +19,7 @@ p {
   opacity: 0.75;
 }
 
-.clock {
-  height: 200px;
-  width: 200px;
-  border-radius: 100px;
-  display: flex;
-  justify-content: center;
-  position: relative;
-}
+
 .clock__second, .clock__minute, .clock__hour, .clock__indicator {
   position: absolute;
   left: calc(50% - 1px);
