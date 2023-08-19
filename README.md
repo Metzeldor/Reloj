@@ -26,3 +26,13 @@ El reloj analógico muestra la hora actual en un formato tradicional, con maneci
 ```shell
 git clone https://github.com/Metzeldor/reloj.git
 ```
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes ideas para mejorar este proyecto, no dudes en abrir un issue o enviar un pull request.
+
+## Licencia
+
+Este proyecto está bajo la licencia [MIT](LICENSE) creado por Andres Tejada.
+
+¡Espero que disfrutes explorando y mejorando este reloj analógico! Si tienes alguna otra pregunta, no dudes en preguntar.
