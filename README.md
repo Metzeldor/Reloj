@@ -10,7 +10,12 @@ El reloj analógico muestra la hora actual en un formato tradicional, con maneci
 
 ¡Siéntete libre de explorar el código y contribuir al proyecto! Se aceptan sugerencias, mejoras y reportes de problemas. El objetivo es seguir aprendiendo y perfeccionando las habilidades en el desarrollo web.
 
+## Tecnologías utilizadas
 
+- HTML: para la estructura del reloj analógico.
+- CSS: para el estilo y la apariencia del reloj.
+- JavaScript: para la actualización dinámica de las manecillas del reloj.
+- Sass (mejora futura): para compilar el código CSS y aprovechar las características avanzadas del preprocesador.
 
 ## Instalación y Uso
 
